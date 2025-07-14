@@ -1,0 +1,7 @@
+# Creating web page using bootstrap 
+.Trying to add all components and properties
+
+I'm using some tags of HTML
+<p>Paragraph Tag </p>
+<a href="" >Anchor Tag to link another page</a>
+<img src="" width="" height="">For adding images in webpages</img> 
